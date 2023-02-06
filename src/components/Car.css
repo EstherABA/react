@@ -1,0 +1,8 @@
+.car{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+img{
+    width: 30%;
+}
